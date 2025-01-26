@@ -9,7 +9,7 @@ import leafmap.foliumap as leafmap
 st.set_page_config(page_title="Combate a Arbovirose")
 
 with st.container():
-    st.title("Mapeamento Aéreo ")
+    st.title("Mapeamento Aéreo by Eng Wagner Cunha ")
     st.subheader("Prefeitura Municipal de Arraial do Cabo - Arbovirose")
     st.write("Geolocalização de Piscinas, Caixas d'água e Hidromassagens descobertas")
 
